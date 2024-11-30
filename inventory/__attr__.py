@@ -1,0 +1,7 @@
+__name__ = "Inventory_Management_System"
+__version__ = "1.0.12"
+__url__ = "https://github.com/pradipece/Invantory_Management_System"
+__author__ = "Pradip Nath"
+__email__ = "pradipnathece@gmail.com"
+__description__ = "Sample Inventory Management System powered by Flask"
+__license__ = "MIT License"
