@@ -41,9 +41,9 @@ $ pip3 install flask
 
 ## Overview
 
-The _index page_ or _summary_ covers the summary of the system containing lists of products and locations along with a count of unallocated products.
+The index page or summary covers the system summary, containing lists of products and locations along with a count of unallocated products.
 On the _products page_, we can add/edit/remove products from the system. The _location page_ covers similar functionality in the context of locations or warehouses.
-On the _logistics page_, the movement of products can be performed. It also maintains the history of all transactions in a tabular form.
+The logistics page allows for product movement and maintains a tabular history of all transactions.
 
 ## Usage
 
